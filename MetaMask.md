@@ -7,7 +7,7 @@
 **Mobile App: Alternatively, install the MetaMask app from Google Play Store or Apple App Store.**
 
 
-**Step 2: Create a New Wallet**
+# **Step 2: Create a New Wallet**
 
 **Click “Get Started”.**
 
@@ -17,7 +17,7 @@
 
 **Agree to the terms and conditions.**
 
-**Step 3: Backup the Secret Recovery Phrase**
+# **Step 3: Backup the Secret Recovery Phrase**
 
 **MetaMask will generate a 12-word Secret Recovery Phrase.**
 
